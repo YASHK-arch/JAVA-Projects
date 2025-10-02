@@ -10,7 +10,7 @@ public class listofprime {
         if (A < B) {
             min = A;
             max = B;
-        }1 
+        }
         else {
             min = B;
             max = A;
